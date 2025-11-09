@@ -11,7 +11,9 @@ This will allow everyone to use their own computer and become familiar with how 
 
 + [fall](https://fall.brightcon.link)
 + [summer](https://summer.brightcon.link)
-+ [spring[(https://spring.brightcon.link)
++ [spring](https://spring.brightcon.link)
+
+_Please_ follow instructors advice on which server to select. The ideal is have a good balance of number of participants per server.
 
 ### Credentials
 
